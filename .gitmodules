@@ -1,0 +1,6 @@
+[submodule "infra"]
+	path = infra
+	url = git@github.com:simonbohl/my-cloud-infra.git
+[submodule "core"]
+	path = core
+	url = git@github.com:simonbohl/my-cloud-core.git
